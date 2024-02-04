@@ -1,0 +1,6 @@
+[workspace]
+resolver="2"
+
+members = [ "src/bin/alstra-compiler",
+"src/lib/alstra-compiler-core"
+]
